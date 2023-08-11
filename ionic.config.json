@@ -1,0 +1,7 @@
+{
+  "name": "academyStorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
